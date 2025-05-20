@@ -1,2 +1,2 @@
 # firstTrialProject
-educational project 
+This is a C++ bank management program 
